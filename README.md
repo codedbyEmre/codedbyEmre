@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emre Süslü
 - 👀 I’m interested in front-end web development especially vue-related techonologies.
 - 🌱 I’m currently learning Nuxt.js
-- 📫 You can reach me via codedbyemre@gmail.com
+- 📫 You can reach me via emresuslu1480@gmail.com
 
 <!---
 codedbyEmre/codedbyEmre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
