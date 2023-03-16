@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emre Süslü
-- 👀 I’m interested in front-end web development especially vue-related techonologies.
+- 👀 I’m interested in mostly front-end web development
 - 🌱 I’m currently learning Next.js
 - 📫 You can reach me via emresuslu1480@gmail.com
 
