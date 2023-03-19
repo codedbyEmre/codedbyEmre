@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emre Süslü
+- 👋 Hi, I’m Emre Süslü and I'm a software developer
 - 👀 I’m interested in mostly front-end web development
 - 🌱 I’m currently learning Next.js
 - 📫 You can reach me via emresuslu1480@gmail.com
