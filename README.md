@@ -43,8 +43,7 @@ I'm a software engineer in developing and maintaining web applications. My exper
 <a href="https://www.github.com/codedbyEmre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/emre-süslü/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-<b>My GitHub Stats</b>
+### GitHub Stats
 
 <a href="http://www.github.com/codedbyEmre"><img src="https://github-readme-stats.vercel.app/api?username=codedbyEmre&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="codedbyEmre's GitHub stats" /></a><a
 href="http://www.github.com/codedbyEmre"><img
