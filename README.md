@@ -8,7 +8,7 @@ I'm a software developer in developing and maintaining web applications. My expe
 
 *   🌍  I'm based in Turkey
 *   ✉️  You can contact me at [emresuslu1480@gmail.com](mailto:emresuslu1480@gmail.com)
-*   🧠  I'm learning Nest.js
+*   🧠  I'm currently learning Nest.js
 
 ### Skills 
 <p align="left">
