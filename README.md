@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a software developer in developing and maintaining web applications. My expertise lies in mostly front-end development and I have worked with various front-end frameworks and libraries such as React, Vue, JQuery etc. I am passionate about creating user-friendly and responsive web applications that deliver a great user experience. I always strive to keep up-to-date with the latest industry trends and technologies to enhance my skills and provide the best possible solutions to the clients.
+I'm a software engineer in developing and maintaining web applications. My expertise lies in mostly front-end development and I have worked with various front-end frameworks and libraries such as React, Vue, JQuery etc. I am passionate about creating user-friendly and responsive web applications that deliver a great user experience. I always strive to keep up-to-date with the latest industry trends and technologies to enhance my skills and provide the best possible solutions to the clients.
 
 *   🌍  I'm based in Turkey
 *   ✉️  You can contact me at [emresuslu1480@gmail.com](mailto:emresuslu1480@gmail.com)
