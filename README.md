@@ -4,7 +4,7 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 Software Engineer
 -----------------
 
-I am a software engineer, specializing in developing and maintaining web apps. My focus is on full-stack development, and I'm experienced with frameworks like React, Vue, and Express. I'm dedicated to crafting responsive, user-friendly web applications that offer excellent user experiences. I make it a priority to stay current with industry trends and tech advancements to continually enhance my skills and offer top-tier client solutions.
+I am a software engineer, specializing in developing and maintaining web apps. My focus is on full-stack development, and I'm experienced with frameworks and libraries such as React, Vue, and Express etc. I'm fully dedicated to crafting responsive, user-friendly web applications that offer excellent user experiences. I make it a priority to stay current with industry trends and tech advancements to continually enhance my skills and offer top-tier client solutions.
 
 *   🌍  I'm based in Turkey
 *   ✉️  You can contact me at [emresuslu1480@gmail.com](mailto:emresuslu1480@gmail.com)
